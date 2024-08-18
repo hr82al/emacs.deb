@@ -1,6 +1,9 @@
 # emacs.deb
 Repository with emacs.deb for ubuntu 29.4.50
 
+## Emacs url link
+https://www.gnu.org/software/emacs/
+
 ## Build emacs deb
 mkdir home
 apt-get install -y \
