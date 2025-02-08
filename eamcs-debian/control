@@ -1,0 +1,10 @@
+Package: emacs-native
+Version: 29.4
+Section: editors
+Priority: optional
+Architecture: amd64
+Depends: libgccjit0 (>= 12.2.0), libtree-sitter0 (>= 0.20.7), libgif7 (>= 5.2.1), libwebpdemux2 (>= 1.2.4), libxaw7 (>= 1.0.14), libxrender1 (>= 0.9.10), librsvg2-2 (>= 2.54.7), libmagickwand-6.q16-6 (>= 6.9.11.60), libxrandr2 (>= 1.5.2), libxinerama1 (>= 1.1.4), libxfixes3 (>= 6.0.0), libxi6 (>= 1.8), libsqlite3-0 (>= 3.40.1), libxcomposite1 (>= 0.4.5)
+Maintainer: hr82al <hr82al@gmail.com>
+Description: The GNU Emacs editor (metapackage)
+ GNU Emacs is the extensible, customizable, self-documenting real-time
+ display editor. Compiled with native compile support.

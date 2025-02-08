@@ -1,0 +1,2 @@
+./configure --with-x-toolkit=lucid --with-tree-sitter --with-native-compilation --with-json --with-mailutils --with-wide-int --with-imagemagick --prefix=/usr/local
+dpkg-deb --build emacs-native-29.4
